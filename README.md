@@ -1,3 +1,3 @@
-## Stock Price 
-Stock price prediction tutorial and using LSTM
+# stockprice
+Data and Notebook for the Stock Price Prediction Tutorial
 
