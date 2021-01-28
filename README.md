@@ -24,7 +24,7 @@ Step 4: Clone the repository
 ```git clone https://github.com/henryyap12/stockprice.git```
 
 Step 5: Change directory to the cloned directory
-```cd ML-Template-Jupyter```
+```cd stockprice```
 
 Step 6: Install all the python requirements.txt
 ```pip install –r requirements.txt```
