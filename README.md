@@ -6,9 +6,6 @@ The dataset we used in this project is NSE-TATAGLOBAL and it can be download fro
 
 ![sample](misc/1.JPG)
 
-## Project Overview
-In this project, we are going to reuse and modified some parts of the template in order for it to suit with our project. The overview of the whole project would be:
-
 ## Environment Setup
 
 Step 1: Go to this site and download the anaconda installer for windows
